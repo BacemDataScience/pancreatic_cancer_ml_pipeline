@@ -1,4 +1,7 @@
 # pancreatic_cancer_ml_pipeline
+
+- This project was lead by Ryan Urbanowicz and Shannon Lynch of the University of Pennsylvania and the Fox Chase Cancer Center, respectively.
+
 This repository contains the Jupyter notebooks, and supplemental materials for our research paper on assessing machine learning bias in cohort population studies. 
 
 Included are the following:
