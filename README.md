@@ -8,7 +8,7 @@ This repository contains the Jupyter notebooks, and supplemental materials for o
 
 &nbsp;
 
-Included in the repository are the following:
+Included in the repository are the following documents:
 
 - **"Pipeline.png"** - figure containing the basic structure of the ML analysis pipeline that was implemented
 - **“Supplementary Table 1.xlsx”** – offers baseline information on the composition of the datasets in this study
@@ -34,5 +34,5 @@ Lastly, various methods and plots were utilized to further obtain, examine, and 
 &nbsp;
 &nbsp;
 
-*<p align="center">This project was led by **Ryan Urbanowicz** and **Shannon Lynch** of the University of Pennsylvania and the Fox Chase Cancer Center, respectively.</p>*
+*<p align="center">This project was led by **Ryan Urbanowicz** and **Shannon Lynch** of the University of Pennsylvania and Fox Chase Cancer Center, respectively.</p>*
 *<p align="center">**Pranshu Suri** and **Yuhan Cui**, of the University of Pennsylvania, were contributors to assembling this pipeline.</p>*
