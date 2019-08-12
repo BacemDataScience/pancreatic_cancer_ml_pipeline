@@ -11,13 +11,10 @@ Included in the repository are the following:
 
 - **“Supplementary Table 1.xlsx”** – offers baseline information on the composition of the datasets in this study
 - **“Supplementary materials.pdf”** – document enumerating various supplementary materials, tables, and figures that pair with our publication
-- **“dX_feature_importance_viz.ipynb”** – Jupyter notebook for generating feature importance plots (individual and compound bar plots) for Dataset X (1, 2, or 3)
-- **“dX_feature_importance_viz.html”** – .html file containing feature importance notebook for Dataset X (1, 2, or 3)
-- **“dX_ml_pipeline.ipynb”** – Jupyter notebook for running the ML analysis pipeline on Dataset X (1, 2, or 3)
--	**“dX_ml_pipeline.html”** – .html file containing ML analysis pipeline notebook for Dataset X (1, 2, or 3)
+- **“dX_feature_importance_viz.ipynb”** – Jupyter notebook for generating feature importance plots (individual and compound bar plots) for Dataset X (1, 2, or 3); also available as an html file
+- **“dX_ml_pipeline.ipynb”** – Jupyter notebook for running the ML analysis pipeline on Dataset X (1, 2, or 3); also available as an html file
 -	**“figures.zip”** – zipped folder of .png files containing the original figure files that were generated during analysis
--	**“metric_pub_report.ipynb”** – Jupyter notebook summarizing and comparing performance across models within each dataset (avg./sd, boxplots, and non-parametric statistical comparisons)
--	**“metric_pub_report.html”** – .html file containing metric summary/comparison notebook
+-	**“metric_pub_report.ipynb”** – Jupyter notebook summarizing and comparing performance across models within each dataset (avg./sd, boxplots, and non-parametric statistical comparisons); also available as an html file
 -	**“results.zip”** – zipped folder of Excel files containing the raw results (various metrics used) from the ML models in the pipeline for each dataset
 
-*<p align="center">This project was lead by Ryan Urbanowicz and Shannon Lynch of the University of Pennsylvania and the Fox Chase Cancer Center, respectively.</p>*
+*<p align="center">This project was led by Ryan Urbanowicz and Shannon Lynch of the University of Pennsylvania and the Fox Chase Cancer Center, respectively.</p>*
